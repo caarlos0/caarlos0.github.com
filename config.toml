@@ -10,7 +10,7 @@ disableAliases = true
   [markup.highlight]
     codeFences = true
     guessSyntax = true
-    style = "dracula"
+    style = "nord"
     noClasses = true
     tabWidth = 2
 
